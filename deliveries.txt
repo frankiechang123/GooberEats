@@ -1,0 +1,5 @@
+34.0625329 -118.4470263
+34.0712323 -118.4505969:Chicken tenders (Sproul Landing)
+34.0718238 -118.4525699:Burger (De Neve Suites Intersection)
+34.0660665 -118.4385079:KFC (Hilgard and Manning)
+34.0683189 -118.4536522:Bomb (Kelton and Ophir)
