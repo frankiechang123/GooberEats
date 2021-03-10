@@ -1,6 +1,5 @@
 # GooberEats
-A turn-by-turn navigation system for food delivery in Westwood
-
+A turn-by-turn navigation system for food delivery in Westwood. Developed in CS32 Winter 2020 with Professor Nachenberg at UCLA.
 
 Included Files:
 -   ExpandableHashMap.h: implementation of the expandable hashmap.
